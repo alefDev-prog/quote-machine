@@ -16,7 +16,7 @@ const App = () => {
     dispatch(getListItems());
     setTimeout(function() {
       dispatch(getQuote());
-  }, 200);
+  }, 300);
 
   }, []);
 
