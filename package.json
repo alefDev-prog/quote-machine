@@ -1,7 +1,7 @@
 {
   "name": "ranquote",
   "version": "0.1.0",
-  "homepage": "https://alefDev-prog.github.io/react_apps",
+  "homepage": "https://alefDev-prog.github.io/quote-machine",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.2",
